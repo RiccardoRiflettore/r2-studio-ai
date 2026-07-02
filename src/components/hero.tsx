@@ -25,7 +25,7 @@ export function Hero() {
   return (
     <section
       id="top"
-      className="relative min-h-screen overflow-hidden pt-40 pb-24"
+      className="relative min-h-screen scroll-mt-24 overflow-hidden pt-40 pb-24"
     >
       {/* Ambient background: neon mesh orb, no divider — bleeds behind the copy */}
       <div

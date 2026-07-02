@@ -10,7 +10,7 @@ const socials = [
 
 export function Contact() {
   return (
-    <section id="contact" className="relative overflow-hidden py-32">
+    <section id="contact" className="relative scroll-mt-24 overflow-hidden py-32">
       <div
         aria-hidden
         className="pointer-events-none absolute left-1/2 top-0 h-[520px] w-[520px] -translate-x-1/2 rounded-full bg-[radial-gradient(circle,rgba(61,125,255,0.35),transparent_70%)] blur-3xl"

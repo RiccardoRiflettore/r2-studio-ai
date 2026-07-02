@@ -35,7 +35,7 @@ const projects = [
 
 export function Projects() {
   return (
-    <section id="work" className="relative py-32">
+    <section id="work" className="relative scroll-mt-24 py-32">
       <div className="mx-auto max-w-7xl px-6 sm:px-10">
         <div className="flex flex-wrap items-end justify-between gap-6">
           <motion.p

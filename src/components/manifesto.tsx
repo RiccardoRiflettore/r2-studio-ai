@@ -4,7 +4,7 @@ import { motion } from "motion/react";
 
 export function Manifesto() {
   return (
-    <section id="about" className="relative overflow-hidden py-32">
+    <section id="about" className="relative scroll-mt-24 overflow-hidden py-32">
       <div
         aria-hidden
         className="pointer-events-none absolute -left-40 top-1/2 h-96 w-96 -translate-y-1/2 rounded-full bg-neon-deep/60 blur-3xl"

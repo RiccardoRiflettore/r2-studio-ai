@@ -25,7 +25,7 @@ const services = [
 
 export function Services() {
   return (
-    <section id="services" className="relative py-32">
+    <section id="services" className="relative scroll-mt-24 py-32">
       <div className="mx-auto max-w-7xl px-6 sm:px-10">
         <motion.p
           initial={{ opacity: 0, y: 16 }}

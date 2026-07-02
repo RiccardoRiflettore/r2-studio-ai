@@ -33,7 +33,6 @@ body {
   background: var(--bg);
   color: var(--ink);
   font-family: var(--font-display-src), sans-serif;
-  overflow-x: hidden;
 }
 
 ::selection {
