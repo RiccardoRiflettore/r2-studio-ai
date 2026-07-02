@@ -4,6 +4,8 @@ import { Marquee } from "@/components/marquee";
 import { Manifesto } from "@/components/manifesto";
 import { Services } from "@/components/services";
 import { Projects } from "@/components/projects";
+import { Contact } from "@/components/contact";
+import { SiteFooter } from "@/components/site-footer";
 
 export default function Home() {
   return (
@@ -15,7 +17,9 @@ export default function Home() {
         <Manifesto />
         <Services />
         <Projects />
+        <Contact />
       </main>
+      <SiteFooter />
     </>
   );
 }
